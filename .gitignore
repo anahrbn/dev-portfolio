@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# Vercel / Netlify build folders
+.vercel
+.netlify
+
+# log output from Vite preview
+vite.svg
